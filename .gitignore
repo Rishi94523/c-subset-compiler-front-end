@@ -1,0 +1,21 @@
+# Generated Flex/Bison files and compiler outputs
+*.tab.c
+*.tab.h
+*.lex.c
+lex.yy.c
+*.exe
+*.o
+*.obj
+*.out
+pe3-pe5/pe3
+pe3-pe5/pe4
+pe3-pe5/pe5
+pe6-assignment2/pe6
+pe6-assignment2/a2_ast
+pe6-assignment2/a2_icg
+
+# macOS metadata/debug bundles
+.DS_Store
+__MACOSX/
+._*
+*.dSYM/
